@@ -1,0 +1,9 @@
++	# Release Notes for raspguard_check
++	
++	## v1.0BETA - 2014/04/25
++	_Jesper Jurcenoks_
++	
++	* inital version to be included in the neighborhood Repo
++   * Previous version was dhcp_guard v1.0
++    * This new rapguard_check completely replaces dhcp_guard and expand the functionality to include Wifi and Lan checks as well.
++    * This version determines Internet Connection be trying to reach www.google.com and as such will not work in countries where access to Google is blocked (like main land China)
